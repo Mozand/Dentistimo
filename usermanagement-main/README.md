@@ -19,27 +19,4 @@ The other components used in the system can be accessed through this link [](htt
 3. run the command npm install
 4. to run the component run node app.js
 
-**- Configuration**
 
-
-**- Troubleshooting**
-
-
-**- FAQ**
-
-
-**- Maintainers**
-
-[Alexander Andreasson](https://git.chalmers.se/alandr),
-
-[Ayah miqdad](https://git.chalmers.se/abuowda),
-
-[Markus Juntura](https://git.chalmers.se/juntura),
-
-[Malik Hannan Ahmed](https://git.chalmers.se/malikh),
-
-[Malik Waleed Mahboob](https://git.chalmers.se/malikwa),
-
-[Mohammad Zandkarimi](https://git.chalmers.se/mohzan),
-
-[Eun Young Cho](https://git.chalmers.se/euny)
