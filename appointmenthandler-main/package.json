@@ -1,0 +1,22 @@
+{
+  "name": "appointmenthandler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.chalmers.se/courses/dit355/test-teams-formation/team-6/appointmenthandler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "history": "^5.1.0",
+    "mongoose": "^6.0.13",
+    "mqtt": "^4.2.8"
+  }
+}
