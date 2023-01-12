@@ -174,18 +174,5 @@ The communication between components will be handled by the MQTT protocol.
 
 ![Class Diagram](/Images/ClassDiagram_V2.png "Image Title")
 
-## Program Management Report
-We're using scrum to manage our project, with the goal of weekly incremental releases. Every week, we assign a Scrum Master to ensure that the team stays on schedule.
 
-### Practices
-
-* SCRUM
-* Kanban Style Board
-
-### Schedule
-* Monday - Daily Standup
-* Tuesday - Daily Standup
-* Wednesday - Daily Standup and Sprint Review
-* Thursday - Daily Standup
-* Friday - Daily Standup and Sprint Retrospective
 
