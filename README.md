@@ -3,23 +3,6 @@
 ## Task Description and Purpose
 We've developed a service that lets Gothenburg locals schedule dental visits. The user can be able to search for available times in user-defined time frames using a graphical user interface.
 
-## Team 6
-* Alexander Andreasson
-* Ayah Miqdad
-* Eun Young Cho
-* Malik Hannan Ahmed
-* Malik Waleed Mahboob 
-* Markus Juntura
-* Mohammad Zandkarimi
-
-## Links
-* Trello Board:https://trello.com/b/HMaroCLe/mini-project-distributed-system-development
-* Booking Manager:https://git.chalmers.se/courses/dit355/test-teams-formation/team-6/bookingmanager
-* User Interface : https://git.chalmers.se/courses/dit355/test-teams-formation/team-6/user-interface
-* User Managemnet : https://git.chalmers.se/courses/dit355/test-teams-formation/team-6/usermanagement
-* Availabiliy Checker: https://git.chalmers.se/courses/dit355/test-teams-formation/team-6/appointmenthandler
-* Clinic Manager: https://git.chalmers.se/courses/dit355/test-teams-formation/team-6/dental-clinic 
-
 
 ## Software Requirement Specification
 
