@@ -13,8 +13,6 @@ In order to run this component, the following program must be installed.
 
 ## Installation
 
-The other components required in Dentismo system can be accessed through this link [Click here]
-(https://git.chalmers.se/courses/dit355/test-teams-formation/team-6)
 
 1. open the command line terminal in your IDE.
 2. navigate to the location of your repository
